@@ -441,4 +441,8 @@ a {
   .main-content {
     grid-template-columns: 1fr;
   }
+  .main-title {
+    justify-content: center;
+    width: 100%;
+  }
 }
